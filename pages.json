@@ -33,6 +33,29 @@
             
         }
     ],
+    "subPackages": [
+        {
+          "root": "subpkg",
+          "pages": [{
+                    "path" : "goods-detail/goods-detail",
+                    "style" :                                                                                    
+                {
+
+                }
+                
+                }
+                ,{
+                    "path" : "goods_list/goods_list",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+            ]
+        }
+      ],
 	 "globalStyle": {
 	    "navigationBarTextStyle": "white",
 	    "navigationBarTitleText": "测试商城",
